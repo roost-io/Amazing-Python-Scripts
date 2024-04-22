@@ -85,9 +85,9 @@ from unittest.mock import patch
 from bs4 import BeautifulSoup
 import requests
 
-def flipkart(item):
-    # Code for the flipkart function goes here
-    # ...
+# def flipkart(item):
+#     # Code for the flipkart function goes here
+#     # ...
 
 def priceToInt(price):
     # Converts the text scraped from website into integer for proper comparison
